@@ -34,7 +34,7 @@ st.warning("This is a warning")
 st.error("This is an error!")
 st.exception("NameError('Error name is not defined')")
 
-
+pip install matplotlib
 ## Load data
 import streamlit as st
 import pandas as pd
